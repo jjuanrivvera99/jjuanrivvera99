@@ -6,17 +6,30 @@ Currently working on educational technology platforms, open-source developer too
 
 ## What I work with
 
-**Languages:** PHP, Python, Go, TypeScript, JavaScript, SQL
-
-**Backend:** Laravel, Django, FastAPI, Slim Framework, WordPress
-
-**Frontend:** Astro, Vue.js, Nuxt.js, Tailwind CSS, Alpine.js
-
-**Databases:** MySQL, PostgreSQL, BigQuery, MongoDB, Redis, SQLite
-
-**Cloud & DevOps:** Google Cloud Platform (Cloud Run, Cloud Functions, BigQuery, Cloud SQL), Docker, GitHub Actions, Nginx, n8n
-
-**Other:** Canvas LMS integrations, Auth0/SSO, dbt, Playwright, Vitest
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+![SQL](https://img.shields.io/badge/SQL-%2300758f.svg?style=flat&logo=postgresql&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=flat&logo=wordpress&logoColor=white)
+![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat&logo=astro&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat&logo=vuedotjs&logoColor=white)
+![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=flat&logo=tailwindcss&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-%234285F4.svg?style=flat&logo=googlebigquery&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat&logo=redis&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=flat&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
 ## Featured projects
 
@@ -39,17 +52,13 @@ Currently working on educational technology platforms, open-source developer too
 
 ## Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jjuanrivvera99&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jjuanrivvera99&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jjuanrivvera99&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-</picture>
+![GitHub Followers](https://img.shields.io/github/followers/jjuanrivvera99?style=flat&logo=github&label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/jjuanrivvera99?style=flat&logo=github&label=Stars&affiliations=OWNER,ORGANIZATION_MEMBER)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jjuanrivvera99&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jjuanrivvera99&layout=compact&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjuanrivvera99&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-</picture>
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjuanrivvera99&theme=github_dark)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jjuanrivvera99&theme=github_dark)
+![Commits per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jjuanrivvera99&theme=github_dark)
 
 ## Connect
 
