@@ -1,25 +1,58 @@
-# 💫 About Me:
-Full stack developer<br>Linux enthusiastic
+# Hey, I'm Juan Rivera
 
+Full stack developer from Colombia. I build web applications, CLI tools, and cloud infrastructure — mostly with PHP, Python, Go, and TypeScript. Linux enthusiast, Docker advocate, and homelab tinkerer.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jjuanrivvera99) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/jjuanrivvera99) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jjuanrivvera99) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jjuanrivvera99) 
+Currently working on educational technology platforms, open-source developer tools, and small business websites.
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jjuanrivvera99&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jjuanrivvera99&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jjuanrivvera99&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## What I work with
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jjuanrivvera99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+**Languages:** PHP, Python, Go, TypeScript, JavaScript, SQL
 
----
-[![](https://visitcount.itsvg.in/api?id=jjuanrivvera99&icon=0&color=0)](https://visitcount.itsvg.in)
+**Backend:** Laravel, Django, FastAPI, Slim Framework, WordPress
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/jjuanrivvera) 
+**Frontend:** Astro, Vue.js, Nuxt.js, Tailwind CSS, Alpine.js
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Databases:** MySQL, PostgreSQL, BigQuery, MongoDB, Redis, SQLite
+
+**Cloud & DevOps:** Google Cloud Platform (Cloud Run, Cloud Functions, BigQuery, Cloud SQL), Docker, GitHub Actions, Nginx, n8n
+
+**Other:** Canvas LMS integrations, Auth0/SSO, dbt, Playwright, Vitest
+
+## Featured projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [canvas-cli](https://github.com/jjuanrivvera/canvas-cli) | CLI for Canvas LMS with OAuth 2.0 + PKCE, installable via Homebrew | Go |
+| [canvas-lms-kit](https://github.com/jjuanrivvera/canvas-lms-kit) | PHP SDK for the Canvas LMS API | PHP |
+| [website-astro](https://github.com/rivera-refrigeracion/website-astro) | Business website built with Astro and Tailwind | TypeScript, Astro |
+| [awesome-framework-core](https://github.com/jjuanrivvera/awesome-framework-core) | Custom PHP framework built from scratch | PHP |
+| [laravel-oracle-docker](https://github.com/jjuanrivvera99/laravel-oracle-docker) | Laravel + Oracle running on Docker | PHP, Docker |
+| [vue-battleship](https://github.com/jjuanrivvera99/vue-battleship) | Single player Battleship game | Vue.js |
+
+## What I'm usually building
+
+- **EdTech platforms** — LMS integrations, partner portals, completion tracking, AI chatbots with RAG
+- **CLI tools in Go** — using Cobra for internal and open-source tools
+- **Small business websites** — fast static sites with Astro and Tailwind
+- **Cloud infrastructure** — microservices on GCP, serverless functions, CI/CD automation
+- **Workflow automation** — n8n workflows, cloud functions, event-driven processing
+
+## Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jjuanrivvera99&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=jjuanrivvera99&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jjuanrivvera99&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jjuanrivvera99&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jjuanrivvera99&layout=compact&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjuanrivvera99&layout=compact&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+</picture>
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jjuanrivvera99)
+[![Website](https://img.shields.io/badge/jjuanrivvera.com-000?style=flat&logo=astro&logoColor=white)](https://jjuanrivvera.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/jjuanrivvera99)
