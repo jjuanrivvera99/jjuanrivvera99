@@ -1,6 +1,6 @@
 # Hey, I'm Juan Rivera
 
-Full stack developer from Colombia. I build web applications, CLI tools, and cloud infrastructure — mostly with PHP, Python, Go, and TypeScript. Linux enthusiast, Docker advocate, and homelab tinkerer.
+Full stack developer from Colombia. I build web applications, CLI tools, and cloud infrastructure, mostly with PHP, Python, Go, and TypeScript. Linux enthusiast, Docker advocate, and homelab tinkerer.
 
 Currently working on educational technology platforms, open-source developer tools, and small business websites.
 
