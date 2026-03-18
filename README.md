@@ -1,8 +1,8 @@
 # Hey, I'm Juan Rivera
 
-Full stack developer from Colombia. I build web applications, CLI tools, and cloud infrastructure, mostly with PHP, Python, Go, and TypeScript. Linux enthusiast, Docker advocate, and homelab tinkerer.
+Backend-leaning full stack engineer with 7+ years building production systems in PHP, Python, Go, and TypeScript. I design and operate multi-system architectures — from CLI tools and REST APIs to AI pipelines and cloud infrastructure on GCP.
 
-Currently working on educational technology platforms, open-source developer tools, and small business websites.
+Currently building educational technology platforms serving 580+ institutional partners, open-source developer tools, and workflow automation.
 
 ## What I work with
 
@@ -35,19 +35,19 @@ Currently working on educational technology platforms, open-source developer too
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [canvas-cli](https://github.com/jjuanrivvera/canvas-cli) | CLI for Canvas LMS with OAuth 2.0 + PKCE, installable via Homebrew | Go |
-| [canvas-lms-kit](https://github.com/jjuanrivvera/canvas-lms-kit) | PHP SDK for the Canvas LMS API | PHP |
-| [website-astro](https://github.com/rivera-refrigeracion/website-astro) | Business website built with Astro and Tailwind | TypeScript, Astro |
+| [canvas-cli](https://github.com/jjuanrivvera/canvas-cli) | Enterprise CLI for Canvas LMS — 280+ commands, OAuth 2.0 + PKCE, Homebrew distribution | Go |
+| [canvas-lms-kit](https://github.com/jjuanrivvera/canvas-lms-kit) | PHP SDK for the Canvas LMS API — 45+ endpoints, Active Record pattern, published on Packagist | PHP |
+| [jw-discord-bot](https://github.com/jjuanrivvera99/jw-discord-bot) | Multi-user Discord bot with REST API and Vue.js dashboard | Node.js, Vue.js, MongoDB |
 | [awesome-framework-core](https://github.com/jjuanrivvera/awesome-framework-core) | Custom PHP framework built from scratch | PHP |
 | [laravel-oracle-docker](https://github.com/jjuanrivvera99/laravel-oracle-docker) | Laravel + Oracle running on Docker | PHP, Docker |
-| [vue-battleship](https://github.com/jjuanrivvera99/vue-battleship) | Single player Battleship game | Vue.js |
+| [board-way](https://github.com/jjuanrivvera/board-way) | Kanban board built with Laravel + Livewire | PHP, Laravel |
 
 ## What I'm usually building
 
-- **EdTech platforms** — LMS integrations, partner portals, completion tracking, AI chatbots with RAG
-- **CLI tools in Go** — using Cobra for internal and open-source tools
-- **Small business websites** — fast static sites with Astro and Tailwind
-- **Cloud infrastructure** — microservices on GCP, serverless functions, CI/CD automation
+- **Backend systems** — APIs, microservices, data pipelines, and multi-tenant platforms at scale
+- **CLI tools in Go** — enterprise-grade tools using Cobra (280+ commands in production)
+- **Cloud infrastructure** — GCP (Cloud Run, Cloud SQL, BigQuery, Pub/Sub), CI/CD with Cloud Build
+- **AI integrations** — production RAG pipelines with Vertex AI, Gemini, and vector search
 - **Workflow automation** — n8n workflows, cloud functions, event-driven processing
 
 ## Stats
