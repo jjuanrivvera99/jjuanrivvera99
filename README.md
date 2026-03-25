@@ -1,6 +1,6 @@
 # Hey, I'm Juan Rivera
 
-Backend-leaning full stack engineer with 7+ years building production systems in PHP, Python, Go, and TypeScript. I design and operate multi-system architectures — from CLI tools and REST APIs to AI pipelines and cloud infrastructure on GCP.
+Backend-leaning full stack engineer with 7+ years building production systems in PHP, Python, Go, and TypeScript. I design and operate multi-system architectures, from CLI tools and REST APIs to AI pipelines and cloud infrastructure on GCP.
 
 Currently building educational technology platforms serving 580+ institutional partners, open-source developer tools, and workflow automation.
 
