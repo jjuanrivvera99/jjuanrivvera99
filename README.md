@@ -46,11 +46,11 @@ Currently building educational technology platforms at ACUE, open-source develop
 
 ## What I'm usually building
 
-- **invitas.co** — SaaS con 6 IAs nativas en español, pagos LATAM (Wompi + Lemon Squeezy), compliance 19 jurisdicciones, ~1570 tests
-- **Canvas LMS ecosystem** — SDK + CLI + MCP + Laravel wrapper + analytics dashboard (8 repos interconectados)
-- **CLI tools in Go** — Enterprise-grade tools usando Cobra (280+ commands en canvas-cli, alegra-cli con MCP server)
-- **AI integrations** — Production RAG pipelines con Vertex AI, Gemini, vector search, 6 use cases en invitas.co
-- **Cloud infrastructure** — GCP (Cloud Run, Cloud SQL, BigQuery, Vertex AI), CI/CD con Cloud Build, Coolify self-hosted
+- **invitas.co** — SaaS with 6 native AI features in Spanish, LATAM payments (Wompi + Lemon Squeezy), compliance across 19 jurisdictions, ~1570 tests
+- **Canvas LMS ecosystem** — SDK + CLI + MCP + Laravel wrapper (7 interconnected repos)
+- **CLI tools in Go** — Enterprise-grade tools using Cobra (280+ commands in canvas-cli, alegra-cli with MCP server)
+- **AI integrations** — Production RAG pipelines with Vertex AI, Gemini, vector search, 6 use cases in invitas.co
+- **Cloud infrastructure** — GCP (Cloud Run, Cloud SQL, BigQuery, Vertex AI), CI/CD with Cloud Build, Coolify self-hosted
 
 ## Stats
 
