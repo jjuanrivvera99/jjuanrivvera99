@@ -67,6 +67,8 @@ Currently building educational technology platforms at ACUE, open-source develop
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjuanrivvera99&theme=github_dark)
 
+![Commits per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jjuanrivvera99&theme=github_dark)
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/jjuanrivvera99)
