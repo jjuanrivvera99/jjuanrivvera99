@@ -9,9 +9,12 @@ Currently building educational technology platforms at ACUE, open-source develop
 | Project | Description | Impact |
 |---------|-------------|--------|
 | [invitas.co](https://invitas.co) | Digital invitations SaaS for LATAM | 6 IAs, 19 countries, payments live, ~1570 tests |
+| [cliwright](https://github.com/jjuanrivvera/cliwright) | Spec-gated CLI factory for any REST API | Generates Go CLIs with MCP server, agent guard, signed releases; gated by `make verify` |
 | [canvas-lms-kit](https://github.com/jjuanrivvera/canvas-lms-kit) | PHP SDK for Canvas LMS API | 45 APIs, 95% coverage, 964 tests, Packagist |
 | [canvas-cli](https://github.com/jjuanrivvera/canvas-cli) | Enterprise CLI for Canvas LMS | 280+ commands, OAuth 2.0 + PKCE, Homebrew |
-| [alegra-cli](https://github.com/jjuanrivvera/alegra-cli) | CLI for Alegra accounting API | Go, MCP server, Codecov, per-resource pattern |
+| [tgctl](https://github.com/jjuanrivvera/tgctl) | CLI for the Telegram Bot API | `gh`-style UX, MCP server, agent guard, Homebrew + Scoop |
+| [n8nctl](https://github.com/jjuanrivvera/n8n-cli) | CLI for the n8n public API | Multi-instance, GitOps apply/lint/diff, cosign-signed releases |
+| [alegra-cli](https://github.com/jjuanrivvera/alegra-cli) | CLI for Alegra accounting API | Go, MCP server, DIAN/SAT e-invoicing, `--dry-run` everywhere |
 | [website](https://jjuanrivvera.com) | Portfolio with i18n (EN/ES/PT) | Astro, JSON-LD, GA4, blog with MDX |
 
 ## What I work with
@@ -51,8 +54,9 @@ Currently building educational technology platforms at ACUE, open-source develop
 ## What I'm usually building
 
 - **invitas.co** — SaaS with 6 native AI features in Spanish, LATAM payments (Wompi + Lemon Squeezy), compliance across 19 jurisdictions, ~1570 tests
-- **Canvas LMS ecosystem** — SDK + CLI + MCP + Laravel wrapper (7 interconnected repos)
-- **CLI tools in Go** — Enterprise-grade tools using Cobra (280+ commands in canvas-cli, alegra-cli with MCP server)
+- **Canvas LMS ecosystem** — SDK + CLI + Laravel wrapper (interconnected repos)
+- **CLI factory + Go CLIs** — [cliwright](https://github.com/jjuanrivvera/cliwright) generates production-grade, agent-ready CLIs; the family it built or hardened includes tgctl, n8nctl, lsqueezy, alegra-cli, and adguard-cli, all with keyring auth, MCP servers, and Homebrew/Scoop distribution
+- **Agent infrastructure** — [tgctl-claude-channel](https://github.com/jjuanrivvera/tgctl-claude-channel) bridges Telegram to a Claude Code session: messages, polls, media, and tool approvals from the phone
 - **AI integrations** — Production RAG pipelines with Vertex AI, Gemini, vector search, 6 use cases in invitas.co
 - **Cloud infrastructure** — GCP (Cloud Run, Cloud SQL, BigQuery, Vertex AI), CI/CD with Cloud Build, Coolify self-hosted
 
@@ -62,9 +66,6 @@ Currently building educational technology platforms at ACUE, open-source develop
 ![GitHub Stars](https://img.shields.io/github/stars/jjuanrivvera99?style=flat&logo=github&label=Stars&affiliations=OWNER,ORGANIZATION_MEMBER)
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jjuanrivvera99&theme=github_dark)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jjuanrivvera99&theme=github_dark)
-![Commits per Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jjuanrivvera99&theme=github_dark)
 
 ## Connect
 
