@@ -10,7 +10,7 @@ Currently building educational technology platforms at ACUE, open-source develop
 |---------|-------------|--------|
 | [invitas.co](https://invitas.co) | Digital invitations SaaS for LATAM | 6 IAs, 19 countries, payments live, ~1570 tests |
 | [cliwright](https://github.com/jjuanrivvera/cliwright) | Spec-gated CLI factory for any REST API | Generates Go CLIs with MCP server, agent guard, signed releases; gated by `make verify` |
-| [edc](https://github.com/jjuanrivvera/edc) | Event injection for coding agents, part of Plexus | Local `/inject` endpoint turns any event into an agent turn; secret-gated, the session sleeps for free until something real happens |
+| [edc](https://github.com/jjuanrivvera/edc) | Event injection for Claude Code, Codex & OpenCode (half of Plexus) | Local `/inject` endpoint turns any event into an agent turn; secret-gated, the session sleeps for free until something real happens |
 | [canvas-lms-kit](https://github.com/jjuanrivvera/canvas-lms-kit) | PHP SDK for Canvas LMS API | 45 APIs, 95% coverage, 964 tests, Packagist |
 | [canvas-cli](https://github.com/jjuanrivvera/canvas-cli) | Enterprise CLI for Canvas LMS | 280+ commands, OAuth 2.0 + PKCE, Homebrew |
 | [tgctl](https://github.com/jjuanrivvera/tgctl) | CLI for the Telegram Bot API | `gh`-style UX, MCP server, agent guard, Homebrew + Scoop |
@@ -57,7 +57,7 @@ Currently building educational technology platforms at ACUE, open-source develop
 - **invitas.co** — SaaS with 6 native AI features in Spanish, LATAM payments (Wompi + Lemon Squeezy), compliance across 19 jurisdictions, ~1570 tests
 - **Canvas LMS ecosystem** — SDK + CLI + Laravel wrapper (interconnected repos)
 - **CLI factory + Go CLIs** — [cliwright](https://github.com/jjuanrivvera/cliwright) generates production-grade, agent-ready CLIs; the family it built or hardened includes tgctl, slackctl, n8nctl, lsqueezy, alegra-cli, adguard-cli, garminctl, wootctl, and atlassian-cli, all with keyring auth, MCP servers, and Homebrew/Scoop distribution
-- **Agent infrastructure** — [edc](https://github.com/jjuanrivvera/edc) is a transport-agnostic channel that lets any process inject an event as a turn into a running coding-agent session (Claude Code, Codex, OpenCode), so agents react to real events without burning tokens on polling; it is part of [Plexus](https://github.com/jjuanrivvera/plexus), which also handles launching, attaching to, and watching those sessions across machines; [tgctl-claude-channel](https://github.com/jjuanrivvera/tgctl-claude-channel) is the Telegram-specific version that drives a session from the phone
+- **Agent infrastructure** — [edc](https://github.com/jjuanrivvera/edc) is a transport-agnostic injector that pushes an event as a turn into a running Claude Code, Codex, or OpenCode session, so agents react to real events without burning tokens on polling; it pairs with [Plexus](https://github.com/jjuanrivvera/plexus), the registry and cockpit that sees and launches those sessions. [tgctl-claude-channel](https://github.com/jjuanrivvera/tgctl-claude-channel) is the Telegram-specific version that drives a session from the phone
 - **AI integrations** — Production RAG pipelines with Vertex AI, Gemini, vector search, 6 use cases in invitas.co
 - **Cloud infrastructure** — GCP (Cloud Run, Cloud SQL, BigQuery, Vertex AI), CI/CD with Cloud Build, Coolify self-hosted
 
